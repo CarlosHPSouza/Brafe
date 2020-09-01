@@ -17,10 +17,7 @@ Projeto desenvolvido durante curso de Web Design da Origamid
 ##  Telas
 
 - [x] Home
-- [x] Sobre
-- [x] Produtos
-- [x] Portfólio
-- [x] Contato
+
 
 ## Web
 <h1 align="left">
