@@ -1,7 +1,7 @@
 # Brafe
 
 <h1 align="center">
-  <img alt="Brafe" title="#Origamid" src="./img/assets/Brafe.png" />
+  <img alt="Brafe" title="#Origamid" src="./img/assets/brafe.png" />
 </h1>
 <h4 align="center"> 
 	🚧  Brafe 🚀 Concluído  🚧
