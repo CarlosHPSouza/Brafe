@@ -10,7 +10,8 @@ Projeto Criado no curso de Web Design da Origamid
 
 ## Sobre o projeto
 
-Bikcraft - é um site de venda de bicicletas sobe medida.
+Brafe
+Site de Café 
 
 Projeto desenvolvido durante curso de Web Design da Origamid
 
