@@ -1,6 +1,5 @@
 # Brafe
-Site de Café 
-Projeto Criado no curso de Web Design da Origamid
+
 <h1 align="center">
   <img alt="Brafe" title="#Origamid" src="./img/assets/Brafe.png" />
 </h1>
